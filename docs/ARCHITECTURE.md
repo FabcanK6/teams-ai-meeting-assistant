@@ -19,23 +19,15 @@ The system is Microsoft-native, modular, and designed with enterprise governance
 
 ## High-Level Flow
 
-Outlook Calendar
-↓
-Calendar Monitor
-↓
-Teams Meeting Bot (auto-join)
-↓
-Meeting Ends
-↓
-Transcript Retrieval (Microsoft Graph)
-↓
-AI Analysis
-↓
-Document Generation (DOCX)
-↓
-SharePoint Storage
-↓
-Teams Notification
+- Outlook Calendar
+- Calendar Monitor
+- Teams Meeting Bot (auto-join)
+- Meeting Ends
+- Transcript Retrieval (Microsoft Graph)
+- AI Analysis
+- Document Generation (DOCX)
+- SharePoint Storage
+- Teams Notification
 
 ---
 
